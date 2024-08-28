@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment-specific files
+.env
+
+# IDE/editor specific file
+.vscode/
+.idea/
+
+# Other files
+*.swp
+*.swo
+
